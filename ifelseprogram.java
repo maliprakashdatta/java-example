@@ -5,7 +5,7 @@ class ifelseprogram
        int age=2;
        if(age>=18)
         {
-       	    System.out.println("Are you Eligible for voating..");
+       	    System.out.println("Are you Eligible for voating...");
 	}
        else
 	{
